@@ -1,0 +1,279 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	33
+	Class:	34
+	Class:	35
+	Class:	36
+	Class:	37
+	Class:	38
+	StdDevs:	1.00000000000000
+	NullSym:	39
+	NullValues:	43
+	StatValues:	44
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Kkod"
+)
+
+(SymList.4
+	Child:	5
+	Child:	10
+	Child:	15
+	Child:	19
+	Child:	24
+	Child:	29
+)
+
+(BShSym.5
+	Color:	6
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+	Style:	0x03
+	Stipple:	9
+)
+
+(TClr.6
+	Blue:	0xffff
+)
+
+(TClr.7
+	Blue:	0xffff
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.9
+	Columns:	8
+	Rows:	8
+	Bits:	00ff00ff 00ff00ff 
+)
+
+(BShSym.10
+	Color:	11
+	OutlineColor:	12
+	OutlineWidth:	0.10000000000000
+	BgColor:	13
+	Style:	0x03
+	Stipple:	14
+)
+
+(TClr.11
+	Red:	0x8200
+	Green:	0x81
+	Blue:	0x81
+)
+
+(TClr.12
+	Red:	0x170b
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(TClr.13
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.14
+	Columns:	8
+	Rows:	8
+	Bits:	00ff00ff 00ff00ff 
+)
+
+(BShSym.15
+	Color:	16
+	Outline:	1
+	OutlineColor:	17
+	OutlineWidth:	0.10000000000000
+	BgColor:	18
+)
+
+(TClr.16
+	Red:	0xd2d2
+	Green:	0xd2d2
+	Blue:	0xd2d2
+)
+
+(TClr.17
+	Red:	0xd2d2
+	Green:	0xd2d2
+	Blue:	0xd2d2
+)
+
+(TClr.18
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.19
+	Color:	20
+	OutlineColor:	21
+	OutlineWidth:	0.10000000000000
+	BgColor:	22
+	Style:	0x03
+	Stipple:	23
+)
+
+(TClr.20
+	Red:	0xff00
+	Green:	0xad9f
+	Blue:	0xfe
+)
+
+(TClr.21
+)
+
+(TClr.22
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.23
+	Columns:	8
+	Rows:	8
+	Bits:	11441144 11441144 
+)
+
+(BShSym.24
+	Color:	25
+	OutlineColor:	26
+	OutlineWidth:	0.10000000000000
+	BgColor:	27
+	Style:	0x03
+	Stipple:	28
+)
+
+(TClr.25
+	Red:	0xd9d
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(TClr.26
+)
+
+(TClr.27
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.28
+	Columns:	8
+	Rows:	8
+	Bits:	11441144 11441144 
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Name:	"Transparent"
+)
+
+(TClr.31
+	Name:	"Transparent"
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.33
+	Label:	"Sankmark,svår"
+	MinNum:	31.00000000000000
+	MaxNum:	31.00000000000000
+	Precision:	-3
+)
+
+(LClass.34
+	Label:	"Sankmark,normal"
+	MinNum:	32.00000000000000
+	MaxNum:	32.00000000000000
+	Precision:	-3
+)
+
+(LClass.35
+	Label:	"Berg i dagen"
+	MinNum:	33.00000000000000
+	MaxNum:	33.00000000000000
+	Precision:	-3
+)
+
+(LClass.36
+	Label:	"Torvtäkt"
+	MinNum:	35.00000000000000
+	MaxNum:	35.00000000000000
+	Precision:	-3
+)
+
+(LClass.37
+	Label:	"Blekvät"
+	MinNum:	37.00000000000000
+	MaxNum:	37.00000000000000
+	Precision:	-3
+)
+
+(LClass.38
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.39
+	Color:	40
+	Outline:	1
+	OutlineColor:	41
+	OutlineWidth:	0.10000000000000
+	BgColor:	42
+)
+
+(TClr.40
+	Name:	"Transparent"
+)
+
+(TClr.41
+	Name:	"Transparent"
+)
+
+(TClr.42
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.43
+)
+
+(NameDict.44
+)
+

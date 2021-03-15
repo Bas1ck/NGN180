@@ -1,0 +1,517 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	75
+	Class:	76
+	Class:	77
+	Class:	78
+	Class:	79
+	Class:	80
+	Class:	81
+	Class:	82
+	Class:	83
+	Class:	84
+	StdDevs:	1.00000000000000
+	NullSym:	85
+	NullValues:	92
+	StatValues:	93
+	RotFieldName:	"Srikt"
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Kkod"
+)
+
+(SymList.4
+	Child:	5
+	Child:	12
+	Child:	19
+	Child:	26
+	Child:	33
+	Child:	40
+	Child:	47
+	Child:	54
+	Child:	61
+	Child:	68
+)
+
+(BMkSym.5
+	Color:	6
+	BgColor:	7
+	Font:	8
+	Size:	12.00000000000000
+	Pattern:	124
+	Angle:	360.00000000000000
+)
+
+(TClr.6
+)
+
+(TClr.7
+	Name:	"Transparent"
+)
+
+(NFont.8
+	Family:	9
+	Name:	10
+	Style:	11
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.9
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.10
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.11
+	S:	"Normal"
+)
+
+(BMkSym.12
+	Color:	13
+	BgColor:	14
+	Font:	15
+	Size:	8.00000000000000
+	Pattern:	100
+	Angle:	360.00000000000000
+)
+
+(TClr.13
+)
+
+(TClr.14
+	Name:	"Transparent"
+)
+
+(NFont.15
+	Family:	16
+	Name:	17
+	Style:	18
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.16
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.17
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.18
+	S:	"Normal"
+)
+
+(BMkSym.19
+	Color:	20
+	BgColor:	21
+	Font:	22
+	Size:	6.00000000000000
+	Pattern:	105
+	Angle:	360.00000000000000
+)
+
+(TClr.20
+)
+
+(TClr.21
+	Name:	"Transparent"
+)
+
+(NFont.22
+	Family:	23
+	Name:	24
+	Style:	25
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.23
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.24
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.25
+	S:	"Normal"
+)
+
+(BMkSym.26
+	Color:	27
+	BgColor:	28
+	Font:	29
+	Size:	12.00000000000000
+	Pattern:	121
+	Angle:	360.00000000000000
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Name:	"Transparent"
+)
+
+(NFont.29
+	Family:	30
+	Name:	31
+	Style:	32
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.30
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.31
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.32
+	S:	"Normal"
+)
+
+(BMkSym.33
+	Color:	34
+	BgColor:	35
+	Font:	36
+	Size:	6.00000000000000
+	Pattern:	99
+	Angle:	360.00000000000000
+)
+
+(TClr.34
+)
+
+(TClr.35
+	Name:	"Transparent"
+)
+
+(NFont.36
+	Family:	37
+	Name:	38
+	Style:	39
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.37
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.38
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.39
+	S:	"Normal"
+)
+
+(BMkSym.40
+	Color:	41
+	BgColor:	42
+	Font:	43
+	Size:	12.00000000000000
+	Pattern:	123
+	Angle:	360.00000000000000
+)
+
+(TClr.41
+)
+
+(TClr.42
+	Name:	"Transparent"
+)
+
+(NFont.43
+	Family:	44
+	Name:	45
+	Style:	46
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.44
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.45
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.46
+	S:	"Normal"
+)
+
+(BMkSym.47
+	Color:	48
+	BgColor:	49
+	Font:	50
+	Size:	12.00000000000000
+	Pattern:	122
+	Angle:	360.00000000000000
+)
+
+(TClr.48
+)
+
+(TClr.49
+	Name:	"Transparent"
+)
+
+(NFont.50
+	Family:	51
+	Name:	52
+	Style:	53
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.51
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.52
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.53
+	S:	"Normal"
+)
+
+(BMkSym.54
+	Color:	55
+	BgColor:	56
+	Font:	57
+	Size:	4.00000000000000
+	Pattern:	102
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Name:	"Transparent"
+)
+
+(NFont.57
+	Family:	58
+	Name:	59
+	Style:	60
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.58
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.59
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.60
+	S:	"Normal"
+)
+
+(BMkSym.61
+	Color:	62
+	BgColor:	63
+	Font:	64
+	Size:	4.00000000000000
+	Pattern:	117
+)
+
+(TClr.62
+)
+
+(TClr.63
+	Name:	"Transparent"
+)
+
+(NFont.64
+	Family:	65
+	Name:	66
+	Style:	67
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.65
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.66
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.67
+	S:	"Normal"
+)
+
+(BMkSym.68
+	Color:	69
+	BgColor:	70
+	Font:	71
+	Size:	8.00000000000000
+	Pattern:	35
+)
+
+(TClr.69
+	Name:	"Transparent"
+)
+
+(TClr.70
+	Name:	"Transparent"
+)
+
+(NFont.71
+	Family:	72
+	Name:	73
+	Style:	74
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.72
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.73
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.74
+	S:	"Normal"
+)
+
+(LClass.75
+	Label:	"Milstolpe"
+	MinNum:	341.00000000000000
+	MaxNum:	341.00000000000000
+	Precision:	-3
+)
+
+(LClass.76
+	Label:	"Ruin"
+	MinNum:	746.00000000000000
+	MaxNum:	746.00000000000000
+	Precision:	-3
+)
+
+(LClass.77
+	Label:	"Gruvhål"
+	MinNum:	751.00000000000000
+	MaxNum:	751.00000000000000
+	Precision:	-3
+)
+
+(LClass.78
+	Label:	"Fornlämning"
+	MinNum:	773.00000000000000
+	MaxNum:	773.00000000000000
+	Precision:	-3
+)
+
+(LClass.79
+	Label:	"Bebyggelselämning"
+	MinNum:	774.00000000000000
+	MaxNum:	774.00000000000000
+	Precision:	-3
+)
+
+(LClass.80
+	Label:	"Kulturhistorisk byggnad"
+	MinNum:	783.00000000000000
+	MaxNum:	783.00000000000000
+	Precision:	-3
+)
+
+(LClass.81
+	Label:	"Minnessten, upplysningssymbol"
+	MinNum:	784.00000000000000
+	MaxNum:	784.00000000000000
+	Precision:	-3
+)
+
+(LClass.82
+	Label:	"Fornlämning, punkt"
+	MinNum:	786.00000000000000
+	MaxNum:	786.00000000000000
+	Precision:	-3
+)
+
+(LClass.83
+	Label:	"Kulturhistorisk lämning, minnessten"
+	MinNum:	787.00000000000000
+	MaxNum:	787.00000000000000
+	Precision:	-3
+)
+
+(LClass.84
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BMkSym.85
+	Color:	86
+	BgColor:	87
+	Font:	88
+	Size:	8.00000000000000
+	Pattern:	35
+)
+
+(TClr.86
+	Name:	"Transparent"
+)
+
+(TClr.87
+	Name:	"Transparent"
+)
+
+(NFont.88
+	Family:	89
+	Name:	90
+	Style:	91
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.89
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.90
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.91
+	S:	"Normal"
+)
+
+(NameDict.92
+)
+
+(NameDict.93
+)
+
